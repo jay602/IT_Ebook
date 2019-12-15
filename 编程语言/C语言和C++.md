@@ -1,7 +1,8 @@
 # C语言和C++
 
 
-* [C专家编程](https://sn9.us/file/632278-375758992?_blank)
+* [C专家编程](https://sn9.us/file/632278-375758992)
+* <a href="https://sn9.us/file/632278-375758992" target="_blank">C专家编程</a>
 * [C和指针](https://sn9.us/file/632278-375759118)
 * [c和指针课后题答案](https://sn9.us/file/632278-376032122)
 * [C标准库中文版](https://sn9.us/file/632278-413723421)
