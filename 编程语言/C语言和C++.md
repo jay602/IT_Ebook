@@ -6,7 +6,7 @@
 * <a href="https://sn9.us/file/632278-376032122">c和指针课后题答案</a>
 * <a href="https://sn9.us/file/632278-413723421">C标准库中文版</a>
 * <a href="https://sn9.us/file/632278-413723439">C程序设计(第四版) 谭浩强.扫描版</a>
-* <a href="https://sn9.us/file/632278-375759118">C编程惯用法：高级程序员常用方法和技巧.王昕.扫描版</a>
+* <a href="https://sn9.us/file/632278-413723433">C编程惯用法：高级程序员常用方法和技巧.王昕.扫描版</a>
 * <a href="https://sn9.us/file/632278-413723430">C语言参考手册第五版</a>
 * <a href="https://sn9.us/file/632278-376035626">C语言接口与实现</a>
 * <a href="https://sn9.us/file/632278-376034345">你必须知道的495个C语言问题</a>
@@ -22,6 +22,14 @@
     * <a href="https://sn9.us/file/632278-413723451">The C Programming Language answer.pdf</a>
     * <a href="https://sn9.us/file/632278-413723445">The C Programming language(eng).chm</a>
     * <a href="https://sn9.us/file/632278-413723454">The C Programming Language英文第2版课后答案.CHM</a>
+* <a href="https://sn9.us/file/632278-376032115">C和C++代码精粹</a>
+* <a href="https://sn9.us/file/632278-376035095">高质量程序设计指南.C/C++语言(第三版).林锐.扫描版</a>
+* <a href="https://sn9.us/file/632278-383494044">程序员的自我修养—链接、装载与库--书签目录</a>
+
+
+___
+
+* <a href="https://sn9.us/file/632278-382829324">C++ Primer Plus（第6版）中文版</a>
 
 
 
