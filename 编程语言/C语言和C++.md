@@ -30,6 +30,18 @@
 ___
 
 * <a href="https://sn9.us/file/632278-382829324">C++ Primer Plus（第6版）中文版</a>
+* <a href="https://sn9.us/file/632278-376126118">C++ Primer 第 5 版 中文版</a>
+* <a href="https://sn9.us/file/632278-375722464">C++ Primer 第 5 版 英文版</a>
+* <a href="https://sn9.us/file/632278-376192138">Accelerated C++</a>
+* <a href="https://sn9.us/file/632278-376163164">ACE程序员指南-网络与系统编程的实用设计模式</a>
+* <a href="https://sn9.us/file/632278-375790397">API Design for C++</a>
+* <a href="https://sn9.us/file/632278-375760951">C++ API设计</a>
+* <a href="https://sn9.us/file/632278-376144337">Boost_C++_Application_Development_Cookbook</a>
+* <a href="https://sn9.us/file/632278-376145819">Boost程序库探秘</a>
+* <a href="https://sn9.us/file/632278-376148152">Boost程序库完全开发指南</a>
+* <a href="https://sn9.us/file/632278-376166515">C++ Concurrency in Action</a>
+* <a href="https://sn9.us/file/632278-375759973">C++并发编程实战(中文版)</a>
+
 
 
 
