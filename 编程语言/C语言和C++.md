@@ -51,6 +51,11 @@ ___
 * <a href="https://sn9.us/file/632278-375793834">C++标准程序库(侯捷译)</a>
 * <a href="https://sn9.us/file/632278-375760243">C++沉思录</a>
 * <a href="https://sn9.us/file/632278-375711926">C++代码设计与重用</a>
+* <a href="https://sn9.us/file/632278-375712103">C++多线程编程实战</a>
+* <a href="https://sn9.us/file/632278-375712244">C++黑客编程揭秘与防范</a>
+* <a href="https://sn9.us/file/632278-375713290">C++跨平台开发技术指南</a>
+* <a href="https://sn9.us/file/632278-376162906">C++设计新思维泛型编程与设计模式之应用</a>
+* <a href="https://sn9.us/file/632278-375726523">Effective C++中文第三版</a>
 
 
 
