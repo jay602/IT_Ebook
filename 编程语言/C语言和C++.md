@@ -41,6 +41,16 @@ ___
 * <a href="https://sn9.us/file/632278-376148152">Boost程序库完全开发指南</a>
 * <a href="https://sn9.us/file/632278-376166515">C++ Concurrency in Action</a>
 * <a href="https://sn9.us/file/632278-375759973">C++并发编程实战(中文版)</a>
+* <a href="https://sn9.us/file/632278-375712822">C++ Templates(简体中文版)</a>
+* <a href="https://sn9.us/file/632278-376163878">C++STL程序员开发指南</a>
+* <a href="https://sn9.us/file/632278-375794339">C++必知必会</a>
+* <a href="https://sn9.us/file/632278-375712907">C++编程规范101条规则、准则最佳实践</a>
+* <a href="https://sn9.us/file/632278-375713020">C++编程思想_中文版_第2版_第1卷</a>
+* <a href="https://sn9.us/file/632278-375713065">C++编程思想_中文版_第2版_第2卷</a>
+* <a href="https://sn9.us/file/632278-376163158">C++编程新思维</a>
+* <a href="https://sn9.us/file/632278-375793834">C++标准程序库(侯捷译)</a>
+* <a href="https://sn9.us/file/632278-375760243">C++沉思录</a>
+* <a href="https://sn9.us/file/632278-375711926">C++代码设计与重用</a>
 
 
 
