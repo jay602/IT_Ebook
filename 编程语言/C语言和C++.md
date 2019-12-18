@@ -49,6 +49,7 @@ ___
 * <a href="https://sn9.us/file/632278-375713065">C++编程思想_中文版_第2版_第2卷</a>
 * <a href="https://sn9.us/file/632278-376163158">C++编程新思维</a>
 * <a href="https://sn9.us/file/632278-375793834">C++标准程序库(侯捷译)</a>
+* <a href="https://sn9.us/file/632278-375736387">C++标准程序库英文版(第二版)</a>
 * <a href="https://sn9.us/file/632278-375760243">C++沉思录</a>
 * <a href="https://sn9.us/file/632278-375711926">C++代码设计与重用</a>
 * <a href="https://sn9.us/file/632278-375712103">C++多线程编程实战</a>
@@ -56,6 +57,25 @@ ___
 * <a href="https://sn9.us/file/632278-375713290">C++跨平台开发技术指南</a>
 * <a href="https://sn9.us/file/632278-376162906">C++设计新思维泛型编程与设计模式之应用</a>
 * <a href="https://sn9.us/file/632278-375726523">Effective C++中文第三版</a>
+* <a href="https://sn9.us/file/632278-375728854">More Effective C++(中文版</a>
+* <a href="https://sn9.us/file/632278-375751015">STL源码剖析简体中文完整版(清晰扫描带目录)</a>
+* <a href="https://sn9.us/file/632278-375793871">Effective STL 中文版</a>
+* <a href="https://sn9.us/file/632278-375713354">Essential C++中文版</a>
+* <a href="https://sn9.us/file/632278-375713470">Exceptional C++ Style中文版</a>
+* <a href="https://sn9.us/file/632278-375713501">More Exceptional C++中文版</a>
+* <a href="https://sn9.us/file/632278-375713486">Google C++ Style Guide (中文版)</a>
+* <a href="https://sn9.us/file/632278-375713554">The C++ Programming Language 3rd Edition</a>
+* <a href="https://sn9.us/file/632278-375712756">C++反汇编与逆向分析技术揭秘</a>
+* <a href="https://sn9.us/file/632278-376163167">代码的力量：C／C++中国象棋程序入门与提高</a>
+* <a href="https://sn9.us/file/632278-375712784">提高C++性能的编程技术</a>
+* <a href="https://sn9.us/file/632278-376148651">Linux多线程服务端编程：使用muduo C++网络库</a>
+* <a href="https://sn9.us/file/632278-375760487">深度探索C++对象模型</a>
+* <a href="https://sn9.us/file/632278-375759499">深入理解C++11：C++11新特性解析与应用</a>
+* <a href="https://sn9.us/file/632278-375712564">深入实践C++模板编程</a>
+* <a href="https://sn9.us/file/632278-375713740">实用C++调试指南</a>
+* <a href="https://sn9.us/file/632278-376163161">网络编程 卷1 运用ACE和模式消除复杂性</a>
+* <a href="https://sn9.us/file/632278-376253828">网络编程 卷2 基于ACE和框架的系统化复用</a>
+
 
 
 
