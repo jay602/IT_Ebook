@@ -76,6 +76,25 @@ ___
 * <a href="https://sn9.us/file/632278-376163161">网络编程 卷1 运用ACE和模式消除复杂性</a>
 * <a href="https://sn9.us/file/632278-376253828">网络编程 卷2 基于ACE和框架的系统化复用</a>
 
+___
+* <a href="https://sn9.us/file/632278-376145819">Boost程序库探秘</a>
+* <a href="https://sn9.us/file/632278-383242788">精通QT4编程（第二版）</a>
+* <a href="https://sn9.us/file/632278-383242886">Qt学习之路</a>
+* <a href="https://sn9.us/file/632278-383242506">Qt5类继承关系图</a>
+* <a href="https://sn9.us/file/632278-376189688">C++ GUI Qt4编程(第二版)</a>
+* <a href="https://sn9.us/file/632278-383243774">Qt Quick核心编程</a>
+* <a href="https://sn9.us/file/632278-376188875">Qt及QtQuick开发实战精解</a>
+* <a href="https://sn9.us/file/632278-376188515">Qt及QtQuick开发实战精解源代码</a>
+* <a href="https://sn9.us/file/632278-376188832">《Qt Creator快速入门》第2版源码</a>
+* <a href="https://sn9.us/file/632278-376188643">qt高级编程</a>
+* <a href="https://sn9.us/file/632278-376188400">Linux窗口程序设计—Qt4精彩实例分析</a>
+* <a href="https://sn9.us/file/632278-376188194">Linux窗口程序设计—Qt4精彩实例分析源代码</a>
+* <a href="https://sn9.us/file/632278-376188209">Qt中的C++技术</a>
+* <a href="https://sn9.us/file/632278-376188175">Qt Creator快速入门.</a>
+* <a href="https://sn9.us/file/632278-376188172">qml杂记 Qt_Quick中文手册</a>
+* <a href="https://sn9.us/file/632278-376188145">C++ Qt设计模式 第2版(中文版)</a>
+
+
 
 
 
