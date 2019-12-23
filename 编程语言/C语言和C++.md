@@ -77,7 +77,6 @@ ___
 * <a href="https://sn9.us/file/632278-376253828">网络编程 卷2 基于ACE和框架的系统化复用</a>
 
 ___
-* <a href="https://sn9.us/file/632278-376145819">Boost程序库探秘</a>
 * <a href="https://sn9.us/file/632278-383242788">精通QT4编程（第二版）</a>
 * <a href="https://sn9.us/file/632278-383242886">Qt学习之路</a>
 * <a href="https://sn9.us/file/632278-383242506">Qt5类继承关系图</a>
@@ -94,7 +93,21 @@ ___
 * <a href="https://sn9.us/file/632278-376188172">qml杂记 Qt_Quick中文手册</a>
 * <a href="https://sn9.us/file/632278-376188145">C++ Qt设计模式 第2版(中文版)</a>
 
-
+___
+* <a href="https://sn9.us/file/632278-382930409">WINDOWS核心编程第五版</a>
+* <a href="https://sn9.us/file/632278-376164229">精通Windows API-函数、接口、编程实例</a>
+* <a href="https://sn9.us/file/632278-376163153">Windows高级调试</a>
+* <a href="https://sn9.us/file/632278-376162901">visual c++ 2012入门经典</a>
+* <a href="https://sn9.us/file/632278-376160660">[深入解析Windows操作系统]中文第四版</a>
+* <a href="https://sn9.us/file/632278-376158223">Visual Studio程序员箴言</a>
+* <a href="https://sn9.us/file/632278-376156024">Visual_C++2010入门经典_第5版</a>
+* <a href="https://sn9.us/file/632278-376156021">精通Windows.Sockets网络开发-基于Visual.C.实现</a>
+* <a href="https://sn9.us/file/632278-376152109">Visual Studio 2010高级编程</a>
+* <a href="https://sn9.us/file/632278-376152101">Microsoft Windows网络编程(第2版)</a>
+* <a href="https://sn9.us/file/632278-376150600">Essntial COM by Meji</a>
+* <a href="https://sn9.us/file/632278-376150597">com技术内幕</a>
+* <a href="https://sn9.us/file/632278-376150591">Windows编程(第6版)</a>
+* <a href="https://sn9.us/file/632278-376150588">Windows程序设计(第5版,珍藏版)</a>
 
 
 
