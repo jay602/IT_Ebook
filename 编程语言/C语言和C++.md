@@ -109,6 +109,22 @@ ___
 * <a href="https://sn9.us/file/632278-376150591">Windows编程(第6版)</a>
 * <a href="https://sn9.us/file/632278-376150588">Windows程序设计(第5版,珍藏版)</a>
 
+___
+* <a href="https://sn9.us/file/632278-383494041">Linux程序设计 中文第4版</a>
+* <a href="https://sn9.us/file/632278-383494038">POSIX多线程程序设计</a>
+* <a href="https://sn9.us/file/632278-376015739">POSIX多线程程序设计中文版源代码</a>
+* <a href="https://sn9.us/file/632278-383494035">Linux高级程序设计</a>
+* <a href="https://sn9.us/file/632278-383494032">linux程序设计第4版</a>
+* <a href="https://sn9.us/file/632278-376015243">Linux程序设计 中文第4版源代码</a>
+* <a href="https://sn9.us/file/632278-376010578">Linux系统编程</a>
+* <a href="https://sn9.us/file/632278-376019933">UNIX网络编程卷1：套接字联网API 第3版</a>
+* <a href="https://sn9.us/file/632278-376016831">UNIX网络编程 卷2：进程间通2源码</a>
+* <a href="https://sn9.us/file/632278-376010578">Linux系统编程</a>
+* <a href="https://sn9.us/file/632278-376017254">Unix环境高级编程</a>
+* <a href="https://sn9.us/file/632278-376015885">unix环境高级编程k课后习题详细解答</a>
+* <a href="https://sn9.us/file/632278-376016822">UNIX程序员手册</a>
+* <a href="https://sn9.us/file/632278-376020241">Linux C编程从初学到精通</a>
+
 
 
 
