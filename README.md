@@ -25,3 +25,13 @@
 * 编程语言
 
     * [C/C++](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C%E8%AF%AD%E8%A8%80%E5%92%8CC%2B%2B.md)
+    * [Python](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python.md)
+    * [PHP](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/PHP.md)
+    * [Java](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Java.md)
+    * [TypeScript](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/TypeScript.md)
+    * [Swift](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Swift.md)
+    * [go](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/go.md)
+    * [C#](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C#.md)
+    * [Lua](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Lua.md)
+    * [Objective-C](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Objective-C.md)
+    * [Swift](https://github.com/jay602/IT_Ebook/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Swift.md)
