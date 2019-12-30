@@ -25,5 +25,18 @@
 
 ___
 
-* <a href="https://sn9.us/file/632278-375811631" title="自己动手写网络爬虫">自己动手写网络爬虫PDF+源码 </a>
+* <a href="https://sn9.us/file/632278-375811631" title="自己动手写网络爬虫">自己动手写网络爬虫PDF+源码</a>
+* <a href="https://sn9.us/file/632278-382719606" title="用Python写网络爬虫" target="_blank">用Python写网络爬虫</a>
+* <a href="https://sn9.us/file/632278-383859821" title="Python3网络爬虫开发实战" target="_blank">Python3网络爬虫开发实战</a>
+* <a href="https://sn9.us/file/632278-375801230" title="Django 设计模式与最佳实践" target="_blank">Django设计模式与最佳实践</a>
+* <a href="https://sn9.us/file/632278-375801163" title="Django Web开发指南" target="_blank">Django Web开发指南</a>
+* <a href="https://sn9.us/file/632278-382528780" title="Python高效开发实战 Django Tornado Flask Twisted" target="_blank">Python高效开发实战 Django Tornado Flask Twisted</a>
+* <a href="https://sn9.us/file/632278-375801176" title="Django 搭建简易博客教程 " target="_blank">Django 搭建简易博客教程 </a>
+* <a href="https://sn9.us/file/632278-375801287" title="DjangoBook2.0中文版" target="_blank">DjangoBook2.0中文版</a>
+* <a href="https://sn9.us/file/632278-377975269" title="Python灰帽子黑客与逆向工程师的Python编程之道" target="_blank">Python灰帽子黑客与逆向工程师的Python编程之道</a>
+* <a href="https://sn9.us/file/632278-375811513" title="利用Python进行数据分析" target="_blank">利用Python进行数据分析</a>
+* <a href="https://sn9.us/file/632278-382467869" title="Python黑帽子：黑客与渗透测试编程之道" target="_blank">Python黑帽子：黑客与渗透测试编程之道</a>
+* <a href="https://sn9.us/file/632278-382527412" title="Python源码剖析" target="_blank">Python源码剖析</a>
+* <a href="https://sn9.us/file/632278-382534102" title="Python数据可视化" target="_blank">Python数据可视化</a>
+* <a href="https://sn9.us/file/632278-383858145" title="Python Unix和Linux系统管理指南" target="_blank">Python Unix和Linux系统管理指南</a>
 
