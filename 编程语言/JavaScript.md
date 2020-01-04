@@ -22,3 +22,7 @@
 * <a href="https://sn9.us/file/632278-395991384" title="你不知道的JavaScript" target="_blank">你不知道的JavaScript-上</a>
 * <a href="https://sn9.us/file/632278-395991390" title="你不知道的JavaScript" target="_blank">你不知道的JavaScript-中</a>
 * <a href="https://sn9.us/file/632278-401870040" title="你不知道的JavaScript" target="_blank">你不知道的JavaScript-下</a>
+
+___
+* <a href="https://sn9.us/file/632278-395990841" title="Learning TypeScript中文版." target="_blank">Learning TypeScript中文版.</a>
+* <a href="https://sn9.us/file/632278-395991371" title="Typescript手书" target="_blank">Typescript手书</a>
