@@ -14,7 +14,7 @@
 * <a href="https://sn9.us/file/632278-382692473" title="Java开发实战经典" target="_blank">Java开发实战经典</a>
 * <a href="https://sn9.us/file/632278-382692810" title="Java网络编程精解" target="_blank">Java网络编程精解</a>
 * <a href="https://sn9.us/file/632278-382692473" title="Java开发实战经典" target="_blank">Java开发实战经典</a>
-* <a href="https://sn9.us/file/632278-382687569" title="Java程序员面试宝典(" target="_blank">Java程序员面试宝典(</a>
+* <a href="https://sn9.us/file/632278-382687569" title="Java程序员面试宝典" target="_blank">Java程序员面试宝典</a>
 * <a href="https://sn9.us/file/632278-382687566" title="Java核心技术-基础知识(第8版)" target="_blank">Java核心技术-基础知识(第8版)</a>
 * <a href="https://sn9.us/file/632278-382687499" title="JAVA并发编程实践" target="_blank">JAVA并发编程实践</a>
 * <a href="https://sn9.us/file/632278-382686996" title="JAVA WEB典型模块与项目实战大全" target="_blank">JAVA WEB典型模块与项目实战大全</a>
