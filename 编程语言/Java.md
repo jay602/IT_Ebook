@@ -21,5 +21,5 @@
 * <a href="https://sn9.us/file/632278-382683048" title="Java Web开发实战1200例(第I卷)" target="_blank">Java Web开发实战1200例(第I卷)</a>
 * <a href="https://sn9.us/file/632278-382680227" title="Java编程思想第4版" target="_blank">Java编程思想第4版</a>
 * <a href="https://sn9.us/file/632278-382679992" title="Effective Java中文版" target="_blank">Effective Java中文版</a>
-* <a href="https://sn9.us/file/632278-382679977" title="Java Servlet开" target="_blank">Java Servlet开</a>
+* <a href="https://sn9.us/file/632278-382679977" title="Java Servlet开发" target="_blank">Java Servlet开发</a>
 
